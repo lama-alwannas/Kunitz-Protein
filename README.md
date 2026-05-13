@@ -35,7 +35,7 @@ The pipeline evaluates the model using **Matthews Correlation Coefficient (MCC)*
 
 | Metric | Set 1 | Set 2 |
 | :--- | :--- | :--- |
-| **Optimal E-value** | 1e -05 | 1e-05 |
+| **Optimal E-value** | 1e -07 | 1e-05 |
 | **Max MCC** | 1.0 | 0.989 |
 | **Accuracy (Q2)** | 1.0 | 0.999 |
 
